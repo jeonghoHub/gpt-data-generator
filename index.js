@@ -6,7 +6,7 @@ import { chatData, chatData2 } from './data.js';
 
 const app = express();
 const __dirname = path.resolve();
-const API_KEY = '당신의 OpenAI API KEY';
+const API_KEY = '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';
 
 app.use(bodyParser.json());
 app.use(express.static('public'));
