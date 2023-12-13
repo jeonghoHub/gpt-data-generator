@@ -24,8 +24,9 @@
 - **실행 방법**:
   1. GitHub에서 프로젝트를 클론합니다: `git clone https://github.com/jeonghoHub/gpt-data-generator.git`
   2. 프로젝트 디렉토리로 이동합니다: `cd gpt-data-generator`
-  3. `node index.js`를 실행하여 서버를 시작합니다.
-  4. 브라우저에서 `localhost:5000`으로 접속하여 웹 인터페이스를 사용합니다.
+  3. `npm install`를 실행하여 관련 라이브러리 들을 설치 합니다.
+  4. `node index.js`를 실행하여 서버를 시작합니다.
+  5. 브라우저에서 `localhost:5000`으로 접속하여 웹 인터페이스를 사용합니다.
 
 ## 결론
 
